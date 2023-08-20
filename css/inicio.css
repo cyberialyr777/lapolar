@@ -1,0 +1,243 @@
+
+.fuser {
+    text-align: center;
+    background-color: #1A132F !important;
+}
+
+.agrein {
+    cursor: pointer;
+}
+
+.links {
+    margin-left: 12.2%;
+}
+
+.menu.col-sm-3 {
+    margin-top:10%;
+    text-align: center;
+}
+
+.bb {
+    background-color: #312b4c;
+    margin-right: 2%;
+}
+
+.buscar {
+    background-color: #F7E2E2;
+    color: black;
+}
+
+.buscar:hover {
+    background-color:#5B7DB1 !important;
+    color:#F7E2E2;
+}
+
+.d-flex {
+    margin-right: 2%;
+}
+
+.ceo {
+    color: darkgray;
+}
+
+.fuser {
+    margin-top: 3%;
+}
+
+.navbar {
+    background-color: #1A132F !important;
+}
+
+.navbar-brand {
+    margin-left: 2%;
+}
+
+.bien {
+    margin-top: 4%;
+    color:floralwhite ;
+}
+
+
+.container-fluid {
+    background-color: #F7E2E2 !important;
+}
+
+.binicio {
+    display: inline-block;
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #F7E2E2;
+    background-color: #F7E2E2 !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.binicio:hover {
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #1A132F;
+    background-color: #1A132F !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.bclientes {
+    display: inline-block;
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #F7E2E2;
+    background-color: #F7E2E2 !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.bclientes:hover {
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #1A132F;
+    background-color: #1A132F !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.bi {
+    margin-top: 16%;
+    fill: #5B7DB1;
+}
+
+p {
+    color: #5B7DB1;
+}
+
+.arriba.row {
+    background-color: #1A132F !important;
+    position:absolute;
+    /*margin-top: 6%;*/
+    z-index: 1;
+    width: 100%;
+}
+
+.abajo.row {
+    position: absolute;
+    top:30%;
+    z-index: 2;
+    top:20%;
+    width:100%;
+}
+
+
+.ccuadro {
+    background-color: whitesmoke;
+    margin-top: 6%;
+    /*width: 46%;*/
+    /*height: 43%;*/
+    width: 90%;
+    border-radius: 17px;
+}
+
+.cobross {
+    background-color: whitesmoke;
+    margin-top: 6%;
+    /* width: 46%;
+    height: 38%;
+    margin-left:50%; */
+    height: 37%;
+    width: 90%;
+    border-radius: 17px;
+
+}
+
+.refatexto {
+    margin-left: 8%;
+    padding-top: 5%;
+    font-size: 129%;
+}
+
+/* .adentroc {
+    border: 1px solid #a8a0c9;
+    border-radius: 8px;
+    width: 85%;
+    height: 60%;
+    margin-top: 5%;
+    margin-left: 8%;
+} */
+
+.adentrocc {
+    border: 1px solid #a8a0c9;
+    width: 85%;
+    height: 90%;
+    margin-top: 6%;
+    margin-left: 8%;
+}
+
+
+
+.adentroc p {
+    padding: 10px !important;
+}
+
+.refacciones {
+    border: 1px solid #a8a0c9;
+    width: 85%;
+    margin-top: 5%;
+    margin-left: 8%;
+}
+
+.monto {
+    color: #1A132F;
+    margin-left: 11%;
+    font-size: 130%;
+}
+
+.dia {
+    color: #1A132F;
+    font-size: 130%;
+    margin-left: 3.3%;
+}
+
+.tcred {
+    color:#5B7DB1;
+    margin-left: 7.7%;
+}
+
+.pdf.col-sm-1 {
+    margin-left: 4%;
+    margin-top: 4.7%;
+}
+
+.col-sm-10 {
+    margin-left: 4%;
+    margin-top: 2.8%;
+}
+
+.col-sm-10 p {
+    color: #1A132F;
+}
+
+
+
+.tfec {
+    color:#5B7DB1;
+}
+
+.fact {
+    margin-top: 1%;
+    margin-left: 3%;
+    font-size: 85%;
+}
+
+.footer-main {
+    height: 90px;
+}
+
+body {
+    background-color: #F7E2E2;
+    height: 100vh;
+}
+
+
+

@@ -1,0 +1,289 @@
+.fuser {
+    text-align: center;
+    background-color: #1A132F !important;
+}
+
+.agrein {
+    cursor: pointer;
+}
+
+.links {
+    margin-left: 12.2%;
+}
+
+.menu.col-sm-3 {
+    margin-top:10%;
+    text-align: center;
+}
+
+.bb {
+    background-color: #312b4c;
+    margin-right: 2%;
+}
+
+.buscar {
+    background-color: #F7E2E2;
+    color: black;
+}
+
+.buscar:hover {
+    background-color:#5B7DB1 !important;
+    color:#F7E2E2;
+}
+
+.d-flex {
+    margin-right: 2%;
+}
+
+.ceo {
+    color: darkgray;
+}
+
+.fuser {
+    margin-top: 3%;
+}
+
+.navbar {
+    background-color: #1A132F !important;
+}
+
+.navbar-brand {
+    margin-left: 2%;
+}
+
+.bien {
+    margin-top: 4%;
+    color:floralwhite ;
+}
+
+
+.container-fluid {
+    background-color: #F7E2E2 !important;
+}
+
+.binicio {
+    display: inline-block;
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #F7E2E2;
+    background-color: #F7E2E2 !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.binicio:hover {
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #1A132F;
+    background-color: #1A132F !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.bclientes {
+    display: inline-block;
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #F7E2E2;
+    background-color: #F7E2E2 !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+.bclientes:hover {
+    margin-top: 8%;
+    margin-right: 5%;
+    border-color: #1A132F;
+    background-color: #1A132F !important;
+    width: 33% !important;
+    height: 90px !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.bi {
+    margin-top: 16%;
+    fill: #5B7DB1;
+}
+
+p {
+    color: #5B7DB1;
+}
+
+.arriba.row {
+    background-color: #1A132F !important;
+    position:absolute;
+    /*margin-top: 6%;*/
+    z-index: 1;
+    width: 100%;
+}
+
+.abajo.row {
+    position: absolute;
+    top:30%;
+    z-index: 2;
+    top:20%;
+    width:100%;
+}
+
+.cobross {
+    background-color: whitesmoke;
+    margin-right: 1%;
+    margin-top: 2.4%;
+    /* height: 45%; */
+    width: 31.9%;
+    border-radius: 15px;
+    padding-bottom: 4%;
+}
+
+.refatexto {
+    margin-left: 6%;
+    padding-top: 7%;
+    font-size: 129%;
+}
+
+.adentroc {
+    border: 1px solid #a8a0c9;
+    width: 89%;
+    height: 65%;
+    margin-top: 7%;
+    margin-left: 6%;
+}
+
+.adentroc p {
+    padding: 10px !important;
+}
+
+.monto {
+    color: #1A132F;
+    margin-left: 9%;
+    font-size: 130%;
+}
+
+.dia {
+    color: #1A132F;
+    font-size: 130%;
+    margin-left: 3%;
+}
+
+.tcred {
+    color:#5B7DB1;
+    margin-left: 6.6%;
+}
+
+.tfec {
+    color:#5B7DB1;
+}
+
+.fact {
+    margin-top: 1%;
+    margin-left: 2.5%;
+    font-size: 85%;
+}
+
+.bi.bi-plus-circle-fill {
+    fill: #f5f5f5;
+}
+
+.popup {
+    position: absolute;
+    top:-150%;
+    left:50%;
+    opacity: 0;
+    transform: translate(-50%,-50%) scale(1.25);
+    width: 500px;
+    padding: 20px 30px;
+    background-color:#f5f5f5;
+    box-shadow: 2px 2px 5px 5px rgba(0,0,0,0.15);
+    border-radius: 10px;
+    transition: top 0ms ease-in-out 200ms,
+                opacity 200ms ease-in-out 0ms,
+                transform 200ms ease-in-out 0ms;
+}
+
+.popup.active {
+    top: 30%;
+    opacity: 1;
+    transform: translate(-50%,-50%) scale(1);
+    transition: top 0ms ease-in-out 0ms,
+                opacity 200ms ease-in-out 0ms,
+                transform 200ms ease-in-out 0ms;
+}
+
+.popup .close-btn {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 15px;
+    height: 15px;
+    fill: #1A132F;
+    cursor: pointer;
+}
+
+.form {
+    margin-top: 3%;
+}
+
+.guardar-btn {
+    background-color: #1A132F;
+    color: #f5f5f5;
+    margin-top: 4%;
+}
+
+.guardar-btn:hover {
+    color: #f5f5f5 !important;
+}
+
+.guardar-btn:active {
+    background-color:#5B7DB1 !important;
+    color:#F7E2E2;
+}
+
+.icon-add {
+    margin-top: 0.9%;
+}
+
+.clientes {
+    margin-top: 2%;
+    color: #f5f5f5;
+}
+
+.bi.bi-x-circle-fill {
+    fill: #1A132F;
+}
+
+.buscador {
+    margin-top: 2%;
+}
+
+.bbuscar {
+    background-color:#312b4c;
+}
+
+.lupa {
+    margin-bottom: 35%;
+    fill: #5B7DB1;
+}
+
+.eliminar.btn.col-sm-1.btn-sm {
+   margin-top: 1%;
+}
+
+.editar.btn.col-sm-1.btn-sm {
+    margin-left: 10%;
+    margin-top: 1%;
+}
+
+.footer-main {
+    height: 90px;
+}
+
+body {
+    background-color: #F7E2E2;
+    height: 100vh;
+}
+
+
+

@@ -1,0 +1,60 @@
+.contenedor-verde {
+    background-color: #61a4bc;
+    border-radius: 25px;
+    width: 50%;
+    height: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.logo {
+    margin-top: 3%;
+}
+
+.texto-inicio-sesion {
+    font-family: 'Ysabeau Infant', sans-serif;
+    font-size: 240%;
+    margin-top: 5%;
+}
+
+.form-floating.mb-3 {
+    width: 47%;
+    margin: 0 auto;
+    margin-top: 7%;
+}
+
+.form-control {
+    border-radius: 20px;
+    border-color: #1A132F;
+}
+
+.form-floating {
+    width: 47%;
+    margin: 0 auto;
+    margin-top: 6%;
+}
+
+.mb-3.form-check {
+    margin-top: 2%;
+}
+
+.form-check .form-check-input {
+    margin-left: 25% !important;
+}
+
+.form-check-label {
+    margin-right: 50%;
+}
+
+.btn.btn-primary {
+    background-color: #1A132F;
+    border-radius: 10px;
+    width: 47%;
+    margin-top: 4%;
+}
+
+body{
+    background-color: #F7E2E2;
+}
